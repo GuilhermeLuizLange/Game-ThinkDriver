@@ -28,5 +28,5 @@
     - Abrindo o projeto e o executando através de alguma IDE;
  - 2º Tela Inicial:
     - Na tela inicial, pode ser selecionado o nível de dificuldade. Ao pressionar Espaço a partida iniciará;
- -3º Partida:
+ - 3º Partida:
     - Durante a partida para selecionar alguma resposta o jogador deve posicionar o carro na pista com a resposta correta e pressionar espaço;
