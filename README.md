@@ -22,11 +22,11 @@
   - Caso o temporizador tenha seu tempo esgotado a partida terminará
 
 # Passo a Passo 
- 1º Executar o Game: 
-    - Executando o arquivo ThinkDriver.exe deste repositório
-    - Executando o JAR deste repositório (necessário JRE 1.8+) 
+ - 1º Executar o Game: 
+    - Executando o arquivo ThinkDriver.exe deste repositório;
+    - Executando o JAR deste repositório (necessário JRE 1.8+); 
     - Abrindo o projeto e o executando através de alguma IDE;
- 2º Tela Inicial:
+ - 2º Tela Inicial:
     - Na tela inicial, pode ser selecionado o nível de dificuldade. Ao pressionar Espaço a partida iniciará;
- 3º Partida:
-    - Durante a partida para selecionar alguma resposta o jogador deve posicionar o carro na pista com a resposta correta e pressionar espaço.
+ -3º Partida:
+    - Durante a partida para selecionar alguma resposta o jogador deve posicionar o carro na pista com a resposta correta e pressionar espaço;
