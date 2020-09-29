@@ -1,7 +1,7 @@
 # Game - ThinkDriver
 
 # Descrição:
- - Game desenvolvido em JAVA com tela de corrida para exercício da tabuada.
+ - Game desenvolvido em JAVA com tema de corrida para exercício da tabuada.
 
 # Controles:
  - Setas: Controlar o veículo;
