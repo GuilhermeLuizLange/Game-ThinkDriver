@@ -6,7 +6,7 @@
 # Controles:
  - Setas: Controlar o veículo;
  - Espaço: Inicia a Partida / Seleciona uma Opção de Resposta;
- - Click (Sobre o nível de dificildade): Alterada a dificuldade entre as opções FÁCIL, MÉDIO E DIFÍCIL;  
+ - Click (Sobre o nível de dificildade): Alterada a dificuldade entre as opções FÁCIL, MÉDIO E DIFÍCIL:
   - FÁCIL: multiplicações até a tabuada de 5 e 1 Inimigo no sentido contrário;
   - MÉDIO: multiplicações até a tabuada de 10 e 2 Inimigos no sentido contrário;
   - DIFÍCIL: multiplicações até a tabuada de 15 e 3 Inimigo no sentido contrário;
