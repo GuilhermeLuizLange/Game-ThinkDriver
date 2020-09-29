@@ -1,0 +1,3 @@
+Main-Class: main.Game
+Name: main/Game.class
+Java-Bean: True
